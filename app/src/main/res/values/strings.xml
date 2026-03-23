@@ -1,0 +1,14 @@
+<resources>
+    <string name="appName">ApplicationB</string>
+    <string name="myListHeader">My Album List</string>
+    <string name="addAlbum">Add</string>
+    <string name="modifyAlbum">Modify</string>
+    <string name="removeAlbum">Remove</string>
+    <string name="addAlbumTitle">Add an Album</string>
+    <string name="search">Search</string>
+    <string name="searchAlbumsHint">Search albums</string>
+    <string name="editAlbumTitle">Edit Album</string>
+    <string name="albumTitleHint">Title</string>
+    <string name="albumArtistHint">Artist</string>
+    <string name="updateAlbum">Update</string>
+</resources>
